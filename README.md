@@ -1,10 +1,10 @@
-<h1 align="center">Hey there, I'm Zaid 👋</h1>
+<h1 align="center">Hey there, I'm Zaid Ahmad 👋</h1>
 <p align="center">
   💻 CS + AI Student • 🚀 Aspiring AI Engineer • 🌨 Dreaming in Code & Snow
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=AI+Engineer+in+Progress;Flask+%7C+LangChain+%7C+Machine+Learning;Loves+Building+Smart+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=AI+Engineer+in+Progress;Loves+Building+Smart+Things" alt="Typing SVG" />
 </p>
 
 ---
