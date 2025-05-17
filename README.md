@@ -1,83 +1,69 @@
-<h1 align="center">Hi there, I'm Zaid 👋</h1>
+<h1 align="center">Hey there, I'm Zaid 👋</h1>
 <p align="center">
-  🚀 Second-Year CS + AI Student | 💡 Tech Explorer | 🌍 Dreaming Beyond Borders
+  💻 CS + AI Student • 🚀 Aspiring AI Engineer • 🌨 Dreaming in Code & Snow
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=AI+Enthusiast;Creative+Tech+Builder;Open+Source+Contributor;Future+Snow+Lover+%F0%9F%8F%A3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=AI+Engineer+in+Progress;Flask+%7C+LangChain+%7C+Machine+Learning;Loves+Building+Smart+Things" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Computer Science with AI undergrad  
-- 🔭 Currently working on: **MEDVISE**, **AI Polytunnel**, and an **AR Desktop Game**  
-- 🌱 Learning: `React`, `OpenCV`, `LangChain`, `Machine Learning`  
-- 🧩 Projects powered by: `Flask`, `Python`, `Unity`, `AWS`, `Pinecone`  
-- 🧊 Planning to settle in a cold country someday  
-- 📬 Reach me: [LinkedIn](www.linkedin.com/in/zaidahmadcodes) • [Email](zaidahmad25@outlook.com)
+- 🎓 2nd-year BSc in Computer Science (AI)  
+- 🌱 Currently learning: `LangChain`, `Flask`, `scikit-learn`, `ML project deployment`  
+- 🤖 Passionate about AI, chatbots, and solving real-life problems with code  
+- 🧊 Wants to live where it snows ☃️  
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/zaidahmadcodes) • [Email](zaidahmad25@outlook.com)  
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,html,css,flask,opencv,unity,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=python,flask,scikitlearn,html,css,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 Projects I'm Proud Of
+### 📌 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏥 [**MEDVISE**](https://github.com/yourusername/medvise) | AI-powered medical chatbot with LLM + voice output. | LangChain, Flask, OpenAI |
-| 🌿 **AI Polytunnel** | Real-time smart agriculture assistant with AI + sensors. | React, Node, Python |
-| 🎮 **AR Game** *(Prototype)* | AR desktop game using OpenCV & Unity camera tracking. | Unity, OpenCV |
+| 🔧 Project | 📘 Description | 🔬 Tech Stack |
+|-----------|----------------|---------------|
+| 🧠 [Mental Health Chatbot](https://github.com/ZaidAhmad-code) | A conversational AI bot that provides mental health support. | Groq Cloud, Flask, Python, LangChain |
+| 🏡 [Boston House Price Prediction](https://github.com/ZaidAhmad-code) | Predicts house prices using machine learning regression models. | Flask, Python, scikit-learn |
+| 📈 [Stock Price Predictor](https://github.com/ZaidAhmad-code) | Forecasts future stock prices using ML algorithms. | Python, scikit-learn |
+| 🩺 [Disease Predictor with Symptoms](https://github.com/ZaidAhmad-code) | Predicts possible diseases based on symptoms input. | Flask, ML, scikit-learn |
+
+> ✨ *More coming soon... Stay tuned!*
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaidAhmad-code&show_icons=true&theme=radical&hide=issues" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAhmad-code&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-### 🧭 2025 Goals
-
-- ✅ Finish **MEDVISE** with complete deployment  
-- 🔄 Keep contributing to open source  
-- 🌐 Build portfolio website  
-- 🎯 Intern in a real-world AI project  
-- 🧠 Master advanced Python and React
-
----
-
-### 💬 Quote That Drives Me
-
-> "It's not about being the best. It's about being better than you were yesterday."
-
----
-
-### 🎯 Fun Facts
-
-- 🐍 Python is my coding language of choice
-- ☃️ Cold weather makes me code faster (maybe...)
-- 🎮 I'm building a game, not just playing them
-- 🧠 I sometimes talk to my AI projects (they don’t reply… yet)
-
----
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZaidAhmad-code&theme=onedark&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
+### 💬 Personal Motto
+
+> “Code it until it clicks.”
+
+---
+
 <p align="center">
-  <b>Let's build something incredible, one line of code at a time 🚀</b>
+  <b>Let's turn ideas into intelligent solutions 💡</b><br>
+  <i>— Zaid Ahmad</i>
 </p>
