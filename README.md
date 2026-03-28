@@ -57,13 +57,15 @@ My work mostly lives in Python, machine learning, and LLMs, but I follow the pro
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ZaidAhmad-code&theme=tokyonight&hide_border=true&border_radius=8" height="180" alt="GitHub Streak" />
+<!-- Streak stats — hosted on a community Vercel fork, more stable than demolab -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ZaidAhmad-code&theme=tokyonight&hide_border=true&border_radius=8" height="180" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZaidAhmad-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&hide=issues&count_private=true" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAhmad-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="Top Languages" />
+<!-- Profile summary cards — reliable alternative to github-readme-stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZaidAhmad-code&theme=tokyonight" height="160" alt="Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZaidAhmad-code&theme=tokyonight" height="160" alt="Top Languages"/>
 
 </div>
 
