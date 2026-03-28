@@ -1,57 +1,78 @@
-<h1 align="center">Zaid Ahmad</h1>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  BSc (Hons) Computer Science with Artificial Intelligence &nbsp;·&nbsp; AI Engineer
-</p>
+# Zaid Ahmad
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zaidahmadcodes">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:zaidahmad25@outlook.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/ZaidAhmad-code">GitHub</a>
-</p>
+**BSc (Hons) Computer Science with Artificial Intelligence**
 
----
+*Building things that sit at the intersection of AI and real-world usefulness.*
 
-### About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidahmadcodes)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidahmad25@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZaidAhmad-code)
 
-I'm a Computer Science (AI) student who enjoys building things that sit at the intersection of machine learning and real-world usefulness — whether that's a chatbot that helps people, a model that predicts something meaningful, or a tool that makes someone's day a little easier.
-
-My work tends to involve Python, Flask, machine learning, and language models, but the stack usually follows the problem. I care more about building things that *work* and *matter* than sticking to a fixed set of tools.
-
-> *"Code it until it clicks."*
+</div>
 
 ---
 
-### Projects
+## About
 
-| Project | Description | Stack |
+I'm an AI-focused Computer Science student who builds tools that solve real problems — chatbots that support people, models that predict something meaningful, and pipelines that actually ship.
+
+My work mostly lives in Python, machine learning, and LLMs, but I follow the problem, not the stack. I care more about things that work and matter than staying in a comfort zone.
+
+---
+
+## Projects
+
+| Project | What it does | Stack |
 |---------|-------------|-------|
-| 🧠 [Mental Health Chatbot](https://github.com/ZaidAhmad-code) | A conversational AI that provides mental health support through empathetic dialogue | Groq Cloud · Flask · LangChain · Python |
-| 🏡 [House Price Predictor](https://github.com/ZaidAhmad-code) | Regression-based model to estimate property values from housing features | Flask · scikit-learn · Python |
+| 🧠 [Mental Health Chatbot](https://github.com/ZaidAhmad-code) | Conversational AI providing empathetic mental health support through dialogue | Python · Flask · LangChain · Groq |
+| 🏡 [House Price Predictor](https://github.com/ZaidAhmad-code) | Estimates property values from housing features using regression models | Python · Flask · scikit-learn |
 | 📈 [Stock Price Forecaster](https://github.com/ZaidAhmad-code) | Forecasts short-term stock movements using ML algorithms | Python · scikit-learn |
-| 🩺 [Disease Predictor](https://github.com/ZaidAhmad-code) | Predicts likely conditions based on user-reported symptoms | Flask · scikit-learn · Python |
+| 🩺 [Disease Predictor](https://github.com/ZaidAhmad-code) | Identifies likely conditions from user-reported symptoms | Python · Flask · scikit-learn |
 
-*More projects in progress — watch this space.*
-
----
-
-### Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,scikitlearn,html,css,git,github,vscode" />
-</p>
+> More in progress — stay tuned.
 
 ---
 
-### GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaidAhmad-code&show_icons=true&theme=radical&hide=issues" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAhmad-code&layout=compact&theme=radical" height="160"/>
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Let's turn ideas into intelligent solutions.</i>
-</p>
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ZaidAhmad-code&theme=tokyonight&hide_border=true&border_radius=8" height="180" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZaidAhmad-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&hide=issues&count_private=true" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAhmad-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code it until it clicks."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ZaidAhmad-code.ZaidAhmad-code)
+
+</div>
